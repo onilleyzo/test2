@@ -1,1 +1,1 @@
-Ceci est un fichier READ.me bravo
+il faut pull le READ.ME
